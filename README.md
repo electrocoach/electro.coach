@@ -1,1 +1,2 @@
-# electro.coach
+Electro.coach website
+automated coaching bot
